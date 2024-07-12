@@ -1,1 +1,2 @@
 # odin-recipes
+This is my first HTML development project. In this project, I will attempt to incorporate all the basic concepts I have learned during the first part of TheOdinProject. The project consists solely of HTML, without including any CSS. Additionally, I will put into practice the knowledge I have gained about Git.
